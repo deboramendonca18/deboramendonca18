@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá! Eu sou a Débora 👋
 
-<!--
-**deboramendonca18/deboramendonca18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, criação e por resolver problemas do dia a dia com soluções práticas.
 
-Here are some ideas to get you started:
+### 💼 Sobre mim
+- 💻 Atualmente trabalho com **projetos para áreas vivas**
+- 📸 Amo **fotografar** e explorar minha criatividade
+- 👩‍💻 Estou aprendendo a desenvolver sites com:
+  - HTML5  
+  - CSS  
+  - JavaScript  
+- ✨ Gosto de **criar** e **solucionar problemas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 O que estou estudando agora
+- Desenvolvimento web
+- Lógica de programação
+- JavaScript para web
+- Boas práticas de código
+
+### 📫 Como me encontrar
+- Instagram: **@debora_mendonca**
+
+### 😄 Pronomes
+- **Ela/Dela**
+
+---
+
+Obrigada por visitar meu perfil! 💙
+
