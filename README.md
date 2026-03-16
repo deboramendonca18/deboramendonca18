@@ -9,13 +9,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecn
   - HTML5  
   - CSS  
   - JavaScript  
-- ✨ Gosto de **criar** e **solucionar problemas**
+- ✨ Gosto de **solucionar problemas** e **desenvolver soluções** 
 
 ### 📚 O que estou estudando agora
 - Desenvolvimento web
 - Lógica de programação
 - JavaScript para web
 - Boas práticas de código
+- Engenharia de Prompt 
+- Pyton
+- Programação de Computadores
+- Interface e Jornada de Usuário 
 
 ### 📫 Como me encontrar
 - Instagram: **@debora_mendonca**
