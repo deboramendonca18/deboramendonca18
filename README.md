@@ -3,7 +3,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, criação e por resolver problemas do dia a dia com soluções práticas.
 
 ### 💼 Sobre mim
-- 💻 Atualmente trabalho com **projetos para áreas vivas**
+- 💻 Atualmente trabalho com **projetos para áreas vivas & Jardinagem**
 - 📸 Amo **fotografar** e explorar minha criatividade
 - 👩‍💻 Estou aprendendo a desenvolver sites com:
   - HTML5  
